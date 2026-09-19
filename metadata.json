@@ -1,0 +1,6 @@
+{
+  "name": "NPS–Hanchinmani Institutes Academic Alliance",
+  "description": "Official website for the NPS–Hanchinmani Institutes Academic Alliance featuring integrated NEET, JEE, and KCET academic programmes, campus facilities, and admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
